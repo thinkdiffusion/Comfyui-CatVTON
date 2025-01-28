@@ -1,4 +1,3 @@
-accelerate
 black
 cloudpickle
 future
